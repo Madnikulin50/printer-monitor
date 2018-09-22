@@ -1,0 +1,29 @@
+{
+  "name": "printer-monitor",
+  "description": "Printer Monitor",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Madnikulin50/printer-monitor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Madnikulin50/printer-monitor/issues"
+  },
+  "homepage": "https://github.com/Madnikulin50/printer-monitore",
+  "dependencies": {
+    "async": "^2.6.1",
+    "debug": "^4.0.1",
+    "express": "^4.16.3",
+    "gridfs-stream": "^1.1.1",
+    "ipp-printer": "^1.0.0",
+    "md5": "^2.2.1",
+    "mongodb": "^3.1.6"
+  }
+}
